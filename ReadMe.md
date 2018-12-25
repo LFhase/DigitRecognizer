@@ -1,5 +1,7 @@
 #### NumberalRecognization   v 1 .1
-> Build Time ： 2017 - 6 - 25
+> Build Time: 2017 - 6 - 25
+> Accuracy: 94%
+
 使用CPU的深度学习程序，推荐配置i7-6700HQ ，RAM 8G
 系统目前仅在win10上测试成功
 
